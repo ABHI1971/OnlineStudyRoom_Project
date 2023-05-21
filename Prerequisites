@@ -1,0 +1,4 @@
+Install Visual Studio Code
+Install latest Node.JS
+Install npm using command npm install in cmd of vscode 
+Type node server.js after npm is successfully installed
